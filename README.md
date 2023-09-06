@@ -1,16 +1,12 @@
-# consumo
+# APLICATIVO PARA CALCULO DE CONSUMO DE MAIS DE UMA RESIDÊNCIA
 
-A new Flutter project.
+Este aplicativo foi desenvolvido para facilitar a vida de pessoas que possuem mais de
+uma casa no mesmo terreno, com a utilização de um medidor e este aplicativo o usuário,
+calcula facilmente o consumo de cada um.
 
-## Getting Started
+##  Imagens do aplicativo
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![appconsumo](https://github.com/lenonpolli/consumo/assets/107897289/1365fd9a-c469-4773-867e-e4fc27092c0e)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Desenvolvido em Dart com o framework Flutter.
